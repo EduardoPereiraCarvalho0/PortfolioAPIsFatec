@@ -117,9 +117,10 @@ Foi meu primeiro API sendo Scrum Master, foi um desafio no começo gerir todos o
 <img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Imagens/LogoUniversalDevs.jpg" width="400" height="250" align="center"/>
 </p>  
 
-<h2 align="center">TecSUS</h2>
 
 Link para acesso ao github: (https://github.com/UniversalDevs/Projeto_API_TecSus)
+
+<p> Empresa TecSus: Atua no desenvolvimento de soluções tecnológicas para a gestão de utilidades, como água, energia e gás</p>
 
 <h3> :dart: Objetivos do Projeto</h3>
 <p>Coleta e processamento de contas de energia, água e gás para diversas empresas dos setores do atacado e varejo. Cada conta coletada precisa ter todos os seus campos digitados e salvos  em  banco  de  dados  para  eventuais  consultas  e  análises  técnicas/financeiras  que  podem trazer ao cliente oportunidades de redução de custos e alteração de contratos.Cada unidade do cliente pode possuir vários contratos (água, energia ou gás), cada contrato pode possuir uma ou mais contas (faturas de água, energia ou gás) por mês.Todos esses contratos estão ligados a uma concessionária de abastecimento.É importante observar que a interface de digitação (cadastro) das contas, deve possuir um UX que facilite a operação de visualização da conta em PDF para digitação dos campos da conta, com uso de atalhos no teclado e navegação via teclas.</p>
@@ -155,6 +156,8 @@ Um dos grandes problemas que precisei resolver no terceiro semestre foi a quest�
 </p>
 
 Link para acesso ao github: (https://github.com/Grupo1API/2RP)
+
+<p> Empresa 2RP: Atua na área de análise de dados e transações financeiras</p>
 
 <br>
 <br>
@@ -215,7 +218,7 @@ Foi um grande desafio entender os requisitos do nosso cliente e descobrir a melh
 </p>  
 
 Link para acesso ao github: (https://github.com/CodeLabFatec/EquipControl)
-<h2 align="center">EquipControl</h2>
+<p> Empresa Imagem:  Atua no segmento de geotecnologia no Brasil. </p>
 
 
 <h3> :dart: Objetivos do Projeto</h3>
