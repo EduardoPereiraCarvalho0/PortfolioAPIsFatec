@@ -42,7 +42,7 @@ Como meus estudos mais focados na parte de Front-end, acabei desenvolvendo conhe
 </p>  
 
 <h3> :dart: Objetivos do Projeto</h2>
-<p>Criar uma aplicação capaz de emitir relatórios mensais apresentando o quadro de presença de colaboradores em postos de trabalhos acordados em contrato, para uma empresa de tercerização de serviços. </p>
+<p>Criar uma aplicação capaz de emitir relatórios mensais apresentando o quadro de presença de colaboradores em postos de trabalhos acordados em contrato, para uma empresa de tercerização de serviços. Esse projeto foi ministrado pelo nosso professor Antonio Egydio</p>
 
 
 <h3>:wrench: Ferramentas & Tecnologias utilizadas</h3>
@@ -81,7 +81,7 @@ Devido ao fato das aulas serem remotas por conta da pandemia, a comunicação fo
 </p>  
 
  Link para acesso ao github: (https://github.com/gbrramos/API_ADS_2021_2)
-
+ <p> Empresa Jetsoft: A JetSoft atua apoiando as organizações na realização de suas estratégias empresariais, por meio da pesquisa e desenvolvimento de soluções inovadoras.</p>
 <h3> :dart: Objetivos do Projeto</h2>
 <p>Criar uma aplicação capaz de emitir relatórios mensais apresentando o quadro de presença de colaboradores em postos de trabalhos acordados em contrato, para uma empresa de tercerização de serviços. </p>
 
