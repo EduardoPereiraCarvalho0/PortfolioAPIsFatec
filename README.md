@@ -152,7 +152,7 @@ Um dos grandes problemas que precisei resolver no terceiro semestre foi a quest√
 
 <span id="topo">
 <p align="center">
-<img src = "./Imagens/readme/elementos/digital-logo.svg"  width="200"/>
+<img src = "https://github.com/Grupo1API/2RP/blob/main/readme/elementos/digital-logo.svg"  width="200"/>
 </p>
 
 Link para acesso ao github: (https://github.com/Grupo1API/2RP)
