@@ -261,7 +261,7 @@ Link para acesso ao github: (https://github.com/Tech-Guardian/Doc_TechGuardian7)
 <p>O objeto O objetivo do projeto é desenvolver um sistema abrangente para controlar e monitorar a movimentação na RedZone, uma área específica onde a presença e o movimento de pessoas precisam ser gerenciados e monitorados com precisão. O sistema visa fornecer funcionalidades essenciais para administradores e usuários finais, controle de acesso e análise de dados eficazes, proporcionando segurança, transparência e facilidade de uso para todos os usuários envolvidos. </p>
 
 <h3>:wrench: Ferramentas & Tecnologias utilizadas</h3>
-<img src="https://github.com/EduardoPereiraCarvalho/PortfolioAPIsFatec/blob/main/Imagens/sprint6.png" width="800"/>
+<img src="https://github.com/EduardoPereiraCarvalho0/PortfolioAPIsFatec/blob/main/Imagens/sprint6.png" width="800"/>
 
 
 <p>Para a criação do front-end do projeto, foram utilizadas as tecnologias: VUE.JS</p>
@@ -270,14 +270,17 @@ Link para acesso ao github: (https://github.com/Tech-Guardian/Doc_TechGuardian7)
 <p>Para a comunicação do grupo, foi utilizada a tecnologia: JIRA</p>
 
 # Contribuições Pessoais
-As minhas contribuições no quinto API foram focadas mais na parte do Front-end, onde, junto com o meu colega Thales, desenvolvi parte das telas do projeto, como o cadastro de equipamento, a inserção de imagens e o histórico de manobras realizadas em cada equipamento, tanto na estilização quanto na criação dos componentes, utilizando a linguagem TypeScript e React Native.
+As minhas contribuições no sexto API foram focadas mais no product owner do projeto, onde liderei a criação e priorização do backlog, garantindo alinhamento com os objetivos do negócio e as necessidades do usuário, também mantive comunicação constante com o cliente para identificar requisitos, alinhar expectativas e reportar o progresso do projeto. Além disso, colaborei com a equipe de desenvolvimento no planejamento de sprints, esclarecendo requisitos e maximizando o valor das entregas.
 # Hard Skills
 
-- TYPESCRIPT: Sei fazer com auxílio de consultas a sites, documentações, etc.
-- REACT NATIVE: Sei fazer com auxílio de consultas a sites, documentações, etc.
-
+- Gestão de backlog: Sei fazer com auxílio de consultas a sites, documentações, etc.
+- Lidar com o cliente: Sei fazer com autonomia
+- Usar ferramentas de gestão (JIRA): Sei fazer com autonomia
 # Soft Skills 
 
-* Resilência:
-Devido a novas ferramentas que foram necessárias usar neste API, foi importante se adaptar novamente. Ocorreram diversos problemas em relação ao desenvolvimento do projeto. Foi a partir dos erros que fui entendendo as novas ferramentas e, a partir daí, procurar soluções para resolver os problemas.
+* Comunicação:
+ Ao longo do desenvolvimento do projeto, foi essencial transmitir ideias e informações de maneira simples e direta. Isso facilitou o alinhamento entre a equipe e o cliente, garantindo que todos compreendessem os objetivos e as entregas esperadas.
+
+* Organização e Gestão de Tempo:
+  Com prazos desafiadores e diversas tarefas simultâneas, foi essencial organizar o trabalho e priorizar entregas de forma eficiente. Utilizei ferramentas e métodos ágeis para manter o progresso do projeto alinhado ao cronograma.
 
