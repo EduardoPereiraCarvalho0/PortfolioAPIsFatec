@@ -247,7 +247,7 @@ Devido a novas ferramentas que foram necessárias usar neste API, foi importante
 
 
 
-# 2023 - 2/ Sexto Semestre
+# 2024 - 1/ Sexto Semestre
 <h3 align="center">Projeto desenvolvido por:</h3>
 <p align="center">
 <img src="https://github.com/Tech-Guardian/Doc_TechGuardian7/blob/main/Documentos/techguardian.png" width="400" height="300" align="center"/>
