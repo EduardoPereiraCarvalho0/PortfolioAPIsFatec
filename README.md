@@ -244,3 +244,40 @@ As minhas contribuições no quinto API foram focadas mais na parte do Front-end
 
 * Resilência:
 Devido a novas ferramentas que foram necessárias usar neste API, foi importante se adaptar novamente. Ocorreram diversos problemas em relação ao desenvolvimento do projeto. Foi a partir dos erros que fui entendendo as novas ferramentas e, a partir daí, procurar soluções para resolver os problemas.
+
+
+
+# 2023 - 2/ Sexto Semestre
+<h3 align="center">Projeto desenvolvido por:</h3>
+<p align="center">
+<img src="https://github.com/Tech-Guardian/Doc_TechGuardian7/blob/main/Documentos/techguardian.png" width="400" height="300" align="center"/>
+</p>  
+
+Link para acesso ao github: (https://github.com/Tech-Guardian/Doc_TechGuardian7)
+<p> Empresa Altave:  Atua oferecendo soluções de monitoramento e conectividade de grandes áreas, com destaque para o software Harpia, que emite alertas com ajuda de inteligência artificial </p>
+
+
+<h3> :dart: Objetivos do Projeto</h3>
+<p>O objeto O objetivo do projeto é desenvolver um sistema abrangente para controlar e monitorar a movimentação na RedZone, uma área específica onde a presença e o movimento de pessoas precisam ser gerenciados e monitorados com precisão. O sistema visa fornecer funcionalidades essenciais para administradores e usuários finais, controle de acesso e análise de dados eficazes, proporcionando segurança, transparência e facilidade de uso para todos os usuários envolvidos. </p>
+
+<h3>:wrench: Ferramentas & Tecnologias utilizadas</h3>
+<img src="https://github.com/EduardoPereiraCarvalho/PortfolioAPIsFatec/blob/main/Imagens/sprint6.png" width="800"/>
+
+
+<p>Para a criação do front-end do projeto, foram utilizadas as tecnologias: VUE.JS</p>
+<p>Para a criação do back-end do projeto, foram utilizadas as tecnologias: PYTHON, JAVA</p>
+<p>Para a criação do banco de dados do projeto, foi utilizada a tecnologia: MYSQL</h3>
+<p>Para a comunicação do grupo, foi utilizada a tecnologia: JIRA</p>
+
+# Contribuições Pessoais
+As minhas contribuições no quinto API foram focadas mais na parte do Front-end, onde, junto com o meu colega Thales, desenvolvi parte das telas do projeto, como o cadastro de equipamento, a inserção de imagens e o histórico de manobras realizadas em cada equipamento, tanto na estilização quanto na criação dos componentes, utilizando a linguagem TypeScript e React Native.
+# Hard Skills
+
+- TYPESCRIPT: Sei fazer com auxílio de consultas a sites, documentações, etc.
+- REACT NATIVE: Sei fazer com auxílio de consultas a sites, documentações, etc.
+
+# Soft Skills 
+
+* Resilência:
+Devido a novas ferramentas que foram necessárias usar neste API, foi importante se adaptar novamente. Ocorreram diversos problemas em relação ao desenvolvimento do projeto. Foi a partir dos erros que fui entendendo as novas ferramentas e, a partir daí, procurar soluções para resolver os problemas.
+
