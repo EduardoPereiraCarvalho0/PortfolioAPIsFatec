@@ -35,6 +35,9 @@ Como meus estudos mais focados na parte de Front-end, acabei desenvolvendo conhe
 <img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Imagens/LogoUniversalDevs.jpg" width="400" height="250" align="center"/>
 </p>  
 
+ Link para acesso ao github: (https://github.com/UniversalDevs/Projeto_API_VoMariaFelix)
+ <p> Este projeto foi ministrado pelo professor Antonio Egydio.</p>
+
 <hr>
 <p align="center">
 <img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Imagens/logo.PNG?raw=true" width="200" height="100" />
