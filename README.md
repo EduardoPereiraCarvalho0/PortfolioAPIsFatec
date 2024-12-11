@@ -172,9 +172,6 @@ Link para acesso ao github: (https://github.com/Grupo1API/2RP)
 
 <p> Empresa 2RP: Atua na área de análise de dados e transações financeiras</p>
 
-<br>
-<br>
-
 <span id="o-projeto">
 
 <h3> :dart: Problema </h2>
@@ -261,7 +258,6 @@ As minhas contribuições no quinto API foram focadas mais na parte do Front-end
 Devido a novas ferramentas que foram necessárias usar neste API, foi importante se adaptar novamente. Ocorreram diversos problemas em relação ao desenvolvimento do projeto. Foi a partir dos erros que fui entendendo as novas ferramentas e, a partir daí, procurar soluções para resolver os problemas.
 
 
-
 # 2024 - 1/ Sexto Semestre
 <h3 align="center">Projeto desenvolvido por:</h3>
 <p align="center">
@@ -275,7 +271,7 @@ Link para acesso ao github: (https://github.com/Tech-Guardian/Doc_TechGuardian7)
 <p>A gestão e o monitoramento de movimentação em áreas restritas, como a RedZone, apresentam desafios significativos, incluindo o controle de acesso, a rastreabilidade das atividades e a análise de dados em tempo real. A ausência de um sistema integrado e eficiente pode comprometer a segurança, dificultar a identificação de incidentes e reduzir a capacidade de fornecer uma experiência transparente e funcional para administradores e usuários finais. Esses problemas afetam diretamente a confiabilidade e a eficiência na administração de áreas sensíveis, </p>
 
 <h3> :dart: Solução </h3>
-<p>O objeto O objetivo do projeto é desenvolver um sistema abrangente para controlar e monitorar a movimentação na RedZone, uma área específica onde a presença e o movimento de pessoas precisam ser gerenciados e monitorados com precisão. O sistema visa fornecer funcionalidades essenciais para administradores e usuários finais, controle de acesso e análise de dados eficazes, proporcionando segurança, transparência e facilidade de uso para todos os usuários envolvidos. </p>
+<p>O objetivo do projeto é desenvolver um sistema abrangente para controlar e monitorar a movimentação na RedZone, uma área específica onde a presença e o movimento de pessoas precisam ser gerenciados e monitorados com precisão. O sistema visa fornecer funcionalidades essenciais para administradores e usuários finais, controle de acesso e análise de dados eficazes, proporcionando segurança, transparência e facilidade de uso para todos os usuários envolvidos. </p>
 
 <h3>:wrench: Ferramentas & Tecnologias utilizadas</h3>
 <img src="https://github.com/EduardoPereiraCarvalho0/PortfolioAPIsFatec/blob/main/Imagens/sprint6.png" width="800"/>
