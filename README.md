@@ -44,7 +44,10 @@ Como meus estudos mais focados na parte de Front-end, acabei desenvolvendo conhe
   <h3 align="center">Instituto Vó Maria Félix</h3>
 </p>  
 
-<h3> :dart: Objetivos do Projeto</h2>
+<h3> :dart: Problema</h2>
+<p>Desenvolver um site institucional para a ONG Instituto Vó Maria Félix, que atende crianças de 0 à 7 anos e que necessitava gerenciar suas atividades e projetos voluntários. O site deveria permitir que o usuário gerenciasse o cadastro de participantes, de voluntários e de projetos, de forma eficiente, para melhorar a gestão e organização do instituto.</p>
+
+<h3> :dart: Solução</h2>
 <p>Criar uma aplicação capaz de emitir relatórios mensais apresentando o quadro de presença de colaboradores em postos de trabalhos acordados em contrato, para uma empresa de tercerização de serviços. Esse projeto foi ministrado pelo nosso professor Antonio Egydio</p>
 
 
@@ -85,7 +88,11 @@ Devido ao fato das aulas serem remotas por conta da pandemia, a comunicação fo
 
  Link para acesso ao github: (https://github.com/gbrramos/API_ADS_2021_2)
  <p> Empresa Jetsoft: A JetSoft atua apoiando as organizações na realização de suas estratégias empresariais, por meio da pesquisa e desenvolvimento de soluções inovadoras.</p>
-<h3> :dart: Objetivos do Projeto</h2>
+ 
+<h3> :dart: Problema </h2>
+<p>A Jetsoft é uma empresa de terceirização de serviços, a qual necessitava emitir relatórios mensais, apresentando o quadro de presença de colaboradores em postos de trabalhos acordados em contrato. Esses quadros de presença deveriam possuir um fechamento mensal e passar por um nível de aprovação. </p>
+
+<h3> :dart: Solução</h2>
 <p>Criar uma aplicação capaz de emitir relatórios mensais apresentando o quadro de presença de colaboradores em postos de trabalhos acordados em contrato, para uma empresa de tercerização de serviços. </p>
 
 <h3>:wrench: Ferramentas & Tecnologias utilizadas</h3>
@@ -125,8 +132,11 @@ Link para acesso ao github: (https://github.com/UniversalDevs/Projeto_API_TecSus
 
 <p> Empresa TecSus: Atua no desenvolvimento de soluções tecnológicas para a gestão de utilidades, como água, energia e gás</p>
 
-<h3> :dart: Objetivos do Projeto</h3>
+<h3> :dart: Problema</h3>
 <p>Coleta e processamento de contas de energia, água e gás para diversas empresas dos setores do atacado e varejo. Cada conta coletada precisa ter todos os seus campos digitados e salvos  em  banco  de  dados  para  eventuais  consultas  e  análises  técnicas/financeiras  que  podem trazer ao cliente oportunidades de redução de custos e alteração de contratos.Cada unidade do cliente pode possuir vários contratos (água, energia ou gás), cada contrato pode possuir uma ou mais contas (faturas de água, energia ou gás) por mês.Todos esses contratos estão ligados a uma concessionária de abastecimento.É importante observar que a interface de digitação (cadastro) das contas, deve possuir um UX que facilite a operação de visualização da conta em PDF para digitação dos campos da conta, com uso de atalhos no teclado e navegação via teclas.</p>
+
+<h3> :dart: Solução</h3>
+<p>A solução desenvolvida era um sistema web responsivo, com o foco de otimizar o processo de cadastro e gestão de faturas de energia, água e gás. O principal objetivo era coletar, processar e armazenar os dados relacionados à essas faturas, contratos e cliente de forma eficiente, gerando também relatórios e dashboards pós-cadastro para obter análises.</p>
 
 <h3>:wrench: Ferramentas & Tecnologias utilizadas</h3>
 <img src="https://github.com/EduardoPereiraCarvalho/PortfolioAPIsFatec/blob/main/Imagens/sprint3.png" width="800"/>
@@ -167,12 +177,11 @@ Link para acesso ao github: (https://github.com/Grupo1API/2RP)
 
 <span id="o-projeto">
 
+<h3> :dart: Problema </h2>
+<p> A empresa enfrenta dificuldades no gerenciamento e controle preciso da jornada de trabalho de seus colaboradores, especialmente no que diz respeito ao registro, classificação e validação de horas extras e sobreaviso. A falta de um sistema padronizado e automatizado pode levar a erros no apontamento, inconsistências nos cálculos e dificuldades na geração de relatórios, resultando em impactos na gestão de recursos humanos, no cumprimento das regulamentações trabalhistas e na transparência com os colaboradores. </p>
 
-
-<h3> :dart: Objetivos do Projeto</h2>
+<h3> :dart: Solução</h2>
 <p> O objetivo do projeto consiste na produção de um sistema WEB que realize o controle da jornada de trabalho do colaborador, permitindo o apontamento e classficação de horas extras/sobreaviso, possibilitando a extração padronizada das horas executas. </p>
-
-
 
 <span id="codigo">
 
@@ -224,7 +233,10 @@ Link para acesso ao github: (https://github.com/CodeLabFatec/EquipControl)
 <p> Empresa Imagem:  Atua no segmento de geotecnologia no Brasil. </p>
 
 
-<h3> :dart: Objetivos do Projeto</h3>
+<h3> :dart: Problema</h3>
+<p>A empresa enfrenta desafios na gestão e controle de seus equipamentos em campo, especialmente para realizar manobras, atualizações e consultas em tempo real. A ausência de uma solução centralizada e acessível por dispositivos móveis dificulta a eficiência operacional, aumenta o risco de falhas no processo e compromete a integridade das informações. Além disso, a falta de integração com APIs limita a automação e a conectividade com outros sistemas, impactando negativamente a agilidade e a qualidade dos serviços prestados..</p>
+
+<h3> :dart: Solução</h3>
 <p>O objeto desse projeto é de possibilitar manobras de ativação/desativação de equipamentos de diversas áreas diferentes, como empresas de Saneamento, Elétrica, Telecomunicações e outras. A aplicação deve ser desenvolvida para mobile e também deve possibilitar consultas, listagens, atualizações, manobras e cadastros de equipamentos, além de disponibilizar uma api para a realização dessas manobras.</p>
 
 <h3>:wrench: Ferramentas & Tecnologias utilizadas</h3>
@@ -259,8 +271,10 @@ Devido a novas ferramentas que foram necessárias usar neste API, foi importante
 Link para acesso ao github: (https://github.com/Tech-Guardian/Doc_TechGuardian7)
 <p> Empresa Altave:  Atua oferecendo soluções de monitoramento e conectividade de grandes áreas, com destaque para o software Harpia, que emite alertas com ajuda de inteligência artificial </p>
 
+<h3> :dart: Problema </h3>
+<p>A gestão e o monitoramento de movimentação em áreas restritas, como a RedZone, apresentam desafios significativos, incluindo o controle de acesso, a rastreabilidade das atividades e a análise de dados em tempo real. A ausência de um sistema integrado e eficiente pode comprometer a segurança, dificultar a identificação de incidentes e reduzir a capacidade de fornecer uma experiência transparente e funcional para administradores e usuários finais. Esses problemas afetam diretamente a confiabilidade e a eficiência na administração de áreas sensíveis, </p>
 
-<h3> :dart: Objetivos do Projeto</h3>
+<h3> :dart: Solução </h3>
 <p>O objeto O objetivo do projeto é desenvolver um sistema abrangente para controlar e monitorar a movimentação na RedZone, uma área específica onde a presença e o movimento de pessoas precisam ser gerenciados e monitorados com precisão. O sistema visa fornecer funcionalidades essenciais para administradores e usuários finais, controle de acesso e análise de dados eficazes, proporcionando segurança, transparência e facilidade de uso para todos os usuários envolvidos. </p>
 
 <h3>:wrench: Ferramentas & Tecnologias utilizadas</h3>
