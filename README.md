@@ -2,11 +2,9 @@
 Repositório dedicado para a documentação dos APIs realizados no curso de Análise e Desenvolvimento de Sistemas, orientado pelos professores Fernando Masanori e Emanuel Mineda.
 
 # Introdução
-Sou Eduardo, tenho 20 anos e atualmente estou cursando Análise e Desenvolvimento de Sistemas na Fatec São José dos Campos. Também tenho formação como técnico em informática, concluída na Etec São José dos Campos.
+Sou Eduardo, tenho 23 anos e atualmente estou cursando Análise e Desenvolvimento de Sistemas na Fatec São José dos Campos. Também tenho formação como técnico em informática, concluída na Etec São José dos Campos.
 
 Durante esses anos na área de TI, passei por diversas experiências na área de desenvolvimento, aprendi linguagens como Java, C++, Python, JavaScript, entre outros. Acabei me identificando mais com a parte de Front-end, onde busco adquirir ainda mais conhecimento.
-
-Ainda estou em busca da minha primeira experiência profissional.
 
 <img src="/Imagens/FotoEduardo.jpeg">
 
