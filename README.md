@@ -6,6 +6,10 @@ Sou Eduardo, tenho 23 anos e atualmente estou cursando Análise e Desenvolviment
 
 Durante esses anos na área de TI, passei por diversas experiências na área de desenvolvimento, aprendi linguagens como Java, C++, Python, JavaScript, entre outros. Acabei me identificando mais com a parte de Front-end, onde busco adquirir ainda mais conhecimento.
 
+# Motivação para realizar o curso de Análise e Desenvolvimento de Sistemas na FATEC
+
+A escolha pela graduação em Análise e Desenvolvimento de Sistemas na FATEC foi motivada pela experiência adquirida durante o curso Técnico em Informática na ETEC São José dos Campos. O contato com tecnologias, programação e desenvolvimento de sistemas despertou meu interesse pela área e reforçou meu objetivo de construir uma carreira na tecnologia.
+
 <img src="/Imagens/FotoEduardo.jpeg">
 
 # Meus Contatos 
